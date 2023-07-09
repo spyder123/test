@@ -2,14 +2,10 @@
 
 
 ## Heroku link
-### https://thyroiddiseasedetect.herokuapp.com/
-
+### 
 ## AWS link
-### http://ec2-35-78-175-118.ap-northeast-1.compute.amazonaws.com:8080/predict
-
+### 
 **click this**<br>
-[Thyroid-Disease-Detection](https://thyroiddiseasedetect.herokuapp.com/)
-
 
 
 ### Docker Image
@@ -28,4 +24,5 @@
 ### Screenshot
 
 *
-![Capture](https://user-images.githubusercontent.com/84202477/192757330-93833a1b-da83-4e22-ae46-17ad3f094fa1.PNG)
+
+
